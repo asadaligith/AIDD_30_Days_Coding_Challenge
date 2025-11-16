@@ -56,39 +56,39 @@ AI + Human = Super Developer
 
 #### What is the main purpose of the AI-Native Era?
 
-a) Replace developers
-b) Empower developers through AI tools ✅
-c) Eliminate coding
-d) Automate testing
+a) Replace developers  <br>
+b) Empower developers through AI tools ✅<br>
+c) Eliminate coding <br>
+d) Automate testing <br>
  
  #### What defines an AI-driven developer?
 
-a) Writes only syntax
-b) Creates context-aware prompts ✅
-c) Avoids tools
-d) Works offline
+a) Writes only syntax <br>
+b) Creates context-aware prompts ✅ <br>
+c) Avoids tools <br>
+d) Works offline <br>
 
 #### What does “AIDD” stand for?
 
-a) AI-Integrated Data Design
-b) AI-Driven Development ✅
-c) Automated IDE Deployment
-d) Adaptive Input 
+a) AI-Integrated Data Design <br>       
+b) AI-Driven Development ✅  <br>    
+c) Automated IDE Deployment  <br>      
+d) Adaptive Input         <br>      
 
 
 #### What is the focus of Evaluation-Driven Development (EvDD)?
 
-a) Manual coding
-b) Evaluating and improving AI outputs ✅
-c) UI design
-d) Testing only
+a) Manual coding   <br>   
+b) Evaluating and improving AI outputs ✅ <br>      
+c) UI design       <br>
+d) Testing only   <br>
 
 ####  What should developers focus on in the AI era?
 
-a) Syntax only
-b) Building reasoning + evaluation skills ✅
-c) Avoiding AI tools
-d) Manual workflows
+a) Syntax only       <br>                 
+b) Building reasoning + evaluation skills ✅      <br>     
+c) Avoiding AI tools              <br>
+d) Manual workflows         <br>
 
 
 “Today I learned that AI isn’t replacing developers — it’s redefining them.

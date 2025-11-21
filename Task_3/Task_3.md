@@ -45,3 +45,10 @@ Two notable developer tools and platforms introduced or significantly upgraded w
 # PART B — Practical Task (Screenshot Required)
 
 ![Gemini Model Updated](Gemini.png)
+
+
+
+
+### Asad Ali
+### 00044700
+### Class Friday 6 to 9 pm

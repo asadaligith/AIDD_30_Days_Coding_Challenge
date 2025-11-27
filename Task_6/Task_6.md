@@ -15,7 +15,7 @@
 ![List result](mcplist.png)
 
 #### GitHub repo list output
-![Github Output](githuboutput.png)
+![Github Output](Output.png)
 
 
 

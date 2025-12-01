@@ -4,7 +4,7 @@
 SPECKit Plus aik framework hai jo hamein project ko step-by-step plan karne, requirements likhne, tasks banane aur akhir me implement karne me help karta hai. Ye basically aik 5-step system hai jo idea ko “plan” se “complete project” tak le jata hai.
 
 **5. Core Concepts**
-#### 1️⃣ /constitution :
+#### 1️⃣ /constitution 
 /constitution project ka purpose, rules aur boundaries batata hai. Isme mission, responsibilities aur woh limits hoti hain jo project ko guide karti hain.
 
 #### 2️⃣ /specify :

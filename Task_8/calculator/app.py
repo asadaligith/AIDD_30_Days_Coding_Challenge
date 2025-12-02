@@ -66,7 +66,7 @@ def main():
             st.session_state.operation = "Add"
             st.session_state.result = ""
             # Rerun the app to clear inputs visually
-            st.experimental_rerun()
+            
 
     # Formatted result output
     if st.session_state.result is not None and st.session_state.result != "":
